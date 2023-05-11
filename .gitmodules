@@ -10,6 +10,6 @@
 	registered = true
 [submodule "shiny.exe"]
 	path = shiny.exe
-	url = https://github.com/cran/shiny.exe
+	url = https://github.com/aodiakite/shiny.exe
 	shallow = true
 	registered = true
