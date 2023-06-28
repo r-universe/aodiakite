@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "casabourse"]
 	path = casabourse
 	url = https://github.com/aodiakite/casabourse
-	shallow = true
-	registered = true
 [submodule "shiny.exe"]
 	path = shiny.exe
 	url = https://github.com/aodiakite/shiny.exe
-	shallow = true
-	registered = true
