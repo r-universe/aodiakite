@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AdapDiscom"]
+	path = AdapDiscom
+	url = https://github.com/aodiakite/adapdiscom
 [submodule "shiny.exe"]
 	path = shiny.exe
 	url = https://github.com/aodiakite/shiny.exe
